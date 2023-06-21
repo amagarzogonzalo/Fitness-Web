@@ -1,5 +1,5 @@
 # Fitness-Web
-The Online Fitness & Diet Platform is a comprehensive web application built using a full stack of technologies, including SQL, PHP, HTML, and CSS. It offers a professional online platform where users can access and purchase personalized fitness routines and diet plans.
+The Online Fitness & Diet Platform is a comprehensive web application built using a full stack of technologies, including Javascript, SQL, PHP, HTML, and CSS. It offers a professional online platform where users can access and purchase personalized fitness routines and diet plans.
 
 At the core of the application is advanced SQL database management, handling complex queries and data manipulations with efficiency and precision. This backend support empowers the platform to manage a vast array of user data, fitness routines, and diet plans, ensuring smooth operation even under heavy load.
 
